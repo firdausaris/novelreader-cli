@@ -1,0 +1,5 @@
+pyttsx3>=2.90
+gtts>=2.3.0
+pydub>=0.25.1
+pathlib
+requests>=2.25.0
