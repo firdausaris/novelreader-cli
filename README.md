@@ -189,7 +189,8 @@ Voice assignment problems:
 Characters are assigned based on name patterns
 Use clear, recognizable names for best results
 System learns from context clues in your text
-- Future Enhancements
+
+Future Enhancements
 - OpenAI Integration: Advanced character personality analysis
 - Emotion Detection: Voice tone based on scene mood
 - Custom Voice Cloning: Upload voice samples for characters
